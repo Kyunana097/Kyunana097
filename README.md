@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ciallo～(∠・ω< )⌒★ 👋
 
 <!--
 **Kyunana097/Kyunana097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Metrics](https://metrics.lecoq.io/Kyunana097?template=terminal&people=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai)
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kyunana097&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyunana097)
