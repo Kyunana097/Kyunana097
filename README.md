@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/Kyunana097?template=terminal&people=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/Kyunana097?template=terminal&people=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai&config.width=960)
 <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D commit stats" width="100%"/>
