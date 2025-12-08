@@ -1,8 +1,14 @@
 ## Ciallo～(∠・ω< )⌒★ 👋
+
 🎓 Undergraduate in Automation @ Guangdong University of Technology  
-📡 HF/VHF/UHF & SDR & CW HAM Radio Enthusiast | HAM Callsign: BG7KMT 
+
+📡 HAM Radio Enthusiast | HAM Callsign: BG7KMT | HF/VHF/UHF & SDR & CW  
+
 ⚙️ Embedded Developer: AT89C52 | STM32 | ESP32 | MSPM0G3507    
-🦀 Python & Cpp | 🤖 OpenCV & YOLO | 🏹 Archery & 🏸 Badminton
+
+🎹 Producer: Jazz | Future Bass | Complextro | Artcore  
+
+🦀 Python & Cpp | 🤖 OpenCV & YOLO | 🏹 Archery & 🏸 Badminton 
 <!--
 **Kyunana097/Kyunana097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
