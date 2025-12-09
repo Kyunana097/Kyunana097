@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: Kyunana097/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -22,7 +22,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: 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
+          token: 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
 
           # Options
           user: Kyunana097
