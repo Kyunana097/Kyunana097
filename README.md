@@ -36,15 +36,13 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-246-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 790.5 kB Used in GitHub's Storage 
+> 📦 790.9 kB Used in GitHub's Storage 
  > 
-> 🏆 269 Contributions in the Year 2025
+> 🏆 279 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,45 +50,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                155 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   30.47 % 
-🌃 Evening                68 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-🌙 Night                  60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Wednesday                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Thursday                 51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Friday                   72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Sunday                   131 commits         ████████░░░░░░░░░░░░░░░░░   32.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -108,7 +67,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kyunana097/Kyunana097/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2025 03:57:23 UTC
+ Last Updated on 09/12/2025 18:52:51 UTC
 <!--END_SECTION:waka-->
 
 > Make <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=flat" alt="Arch"> Great Again !
