@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 ## 🛠️ Working Environment
 <p align="center">
   <img src="https://img.shields.io/badge/CLion-000000.svg?logo=clion&logoColor=ffffff&style=for-the-badge" alt="CLion">
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D commit stats" width="50%"/>
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="50%"></p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="40%"></p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
