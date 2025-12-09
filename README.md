@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 </p>
 <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D commit stats" width="50%"/>
 
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="50%"></p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
