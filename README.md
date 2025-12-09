@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VSCode">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
 </p>
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D commit stats" width="50%"/>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D commit stats" width="40%"/>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="40%"></p>
 
