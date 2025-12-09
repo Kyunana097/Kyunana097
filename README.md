@@ -1,6 +1,7 @@
 ## Hi there! 👋 ![](https://komarev.com/ghpvc/?username=Kyunana097&color=blue&style=flat)
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Ciallo～(∠・ω< )⌒★;Ciallo～(∠・ω< )⌒★&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Ciallo～(∠・ω< )⌒★;&center=true&size=27"> </a> </h1>
+
 🎓 Undergraduate in Automation @ Guangdong University of Technology  
 
 📡 HAM Radio Enthusiast | HAM Callsign: BG7KMT | HF/VHF/UHF & SDR & CW  
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
 </p>
 <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D commit stats" width="50%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kyunana097"width="50%"/> 
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
