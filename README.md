@@ -1,4 +1,4 @@
-## Ciallo～(∠・ω< )⌒★ 👋
+## Ciallo～(∠・ω< )⌒★ 👋 ![](https://komarev.com/ghpvc/?username=Kyunana097&color=blue&style=flat)
 
 🎓 Undergraduate in Automation @ Guangdong University of Technology  
 
