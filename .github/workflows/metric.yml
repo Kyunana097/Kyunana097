@@ -24,10 +24,12 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          # Use the repository's automatic token by default. If you need
-          # organization/private repo scopes, create a PAT and store it as
-          # `METRICS_TOKEN` in repository secrets, then restore this value.
-          token: ${{ secrets.METRICS_TOKEN }}
+          # For most cases the repository-provided token works and prevents
+          # "Bad credentials" when a custom secret is missing or invalid.
+          # If you need organization/private repo scopes, create a PAT and
+          # store it as `METRICS_TOKEN` in repository secrets, then change
+          # this back to `${{ secrets.METRICS_TOKEN }}`.
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: Kyunana097
