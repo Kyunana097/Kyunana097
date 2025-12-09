@@ -1,6 +1,6 @@
 ## Hi there! 👋 ![](https://komarev.com/ghpvc/?username=Kyunana097&color=blue&style=flat)
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Ciallo～(∠・ω< )⌒★;&center=true&size=27"> </a> </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85" alt="Typing SVG" /></a>
 
 🎓 Undergraduate in Automation @ Guangdong University of Technology  
 
