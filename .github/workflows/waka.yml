@@ -25,5 +25,13 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"  # 一周中不同日期进行的提交
           SHOW_LANGUAGE: "True" # 编码语言
           SHOW_EDITORS: "True" # 编辑器
-          SHOW_LANGUAGE_PER_REPO: "True" #  
-          SYMBOL_VERSION: "2" # 设置为进度条的符
+          SHOW_LANGUAGE_PER_REPO: "False" # 显示每个仓库的编程语言分布
+          SYMBOL_VERSION: "2" # 设置进度条的符号样式 (0,1,2)
+          
+          # ========== 其他显示选项 ==========
+          SHOW_UPDATED_DATE: "True" # 显示最后更新日期
+          
+          # 注: Timeline 背景颜色需要通过以下方式自定义:
+          # 1. 在 README.md 中使用 HTML/CSS 修改
+          # 2. 或在生成的图表中使用 HTML 标签设置样式
+          # 3. 该 action 的主题颜色通常由 WakaTime API 返回的数据决定
