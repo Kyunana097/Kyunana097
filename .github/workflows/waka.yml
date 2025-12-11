@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 22 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
-        env:
-          TZ: UTC
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
