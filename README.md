@@ -36,38 +36,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-246-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 790.9 kB Used in GitHub's Storage 
- > 
-> 🏆 279 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Kyunana097/Kyunana097/main/assets/bar_graph.png)
-
-
- Last Updated on 09/12/2025 18:52:51 UTC
 <!--END_SECTION:waka-->
 
 > Make <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=flat" alt="Arch"> Great Again !  
