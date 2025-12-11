@@ -70,4 +70,4 @@ C++                      1 repo              ██░░░░░░░░░�
  Last Updated on 09/12/2025 18:52:51 UTC
 <!--END_SECTION:waka-->
 
-> Make <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=flat" alt="Arch"> Great Again !
+> Make <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=flat" alt="Arch"> Great Again !![fumo](assets/fumo.gif)
