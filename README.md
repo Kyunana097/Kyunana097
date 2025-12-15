@@ -10,7 +10,7 @@
 
 🎹 Producer: Jazz | Future Bass | Complextro | Artcore  
 
-🐍 Python & Cpp | 🤖 OpenCV & YOLO | 🏹 Archery & 🏸 Badminton 
+🐍 Fool-stack Engineer | 🤖 OpenCV & YOLO | 🏹 Archery & 🏸 Badminton 
 
 ## 🛠️ Working Environment
 <p align="center">
