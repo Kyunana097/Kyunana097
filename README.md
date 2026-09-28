@@ -62,23 +62,45 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 1 hr 49 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Markdown                 2 hrs 28 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.17 % 
+Python                   47 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.69 % 
+Other                    11 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.51 % 
+Text                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.63 % 
 
 🔥 编辑器: 
-Obsidian                 1 hr 54 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Obsidian                 1 hr 54 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.55 % 
+VS Code                  1 hr 35 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.82 % 
+Claude Code              3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.63 % 
 
 💻 操作系统: 
-Windows                  1 hr 49 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  1 hr 49 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.55 % 
+Linux                    1 hr 39 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 39 mins (47.45%)
+
+✍️ 742 lines written by AI, 46 lines written by hand (94.16% AI-written)
+
+🔤 345,672 Input Tokens, 84,970 Output Tokens
+
+💵 $36.97 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 8 AI Prompts
+
+Deepseek                 1,401 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.16% of written lines came from AI
+📄 Detailed Prompter — average 1,295 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 04:20:17 UTC
+ Last Updated on 28/09/2026 04:21:01 UTC
 <!--END_SECTION:waka-->
 
 > Make   <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=flat" alt="Arch">
